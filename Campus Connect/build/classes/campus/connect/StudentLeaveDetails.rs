@@ -1,0 +1,2 @@
+campus.connect.StudentLeaveDetails
+university.management.system.StudentLeaveDetails

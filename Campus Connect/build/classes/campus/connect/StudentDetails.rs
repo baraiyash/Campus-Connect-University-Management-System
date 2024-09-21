@@ -1,0 +1,3 @@
+campus.connect.StudentDetails
+campus.connect.TeacherDetails
+university.management.system.StudentDetails

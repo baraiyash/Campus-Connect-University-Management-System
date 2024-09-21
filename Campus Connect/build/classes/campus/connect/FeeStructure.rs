@@ -1,0 +1,2 @@
+campus.connect.FeeStructure
+university.management.system.FeeStructure

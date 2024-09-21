@@ -1,0 +1,4 @@
+university.management.system.ExaminationDetails
+campus.connect.ExaminationDetails
+university.management.system.ExaminationDetails$1
+campus.connect.ExaminationDetails$1
