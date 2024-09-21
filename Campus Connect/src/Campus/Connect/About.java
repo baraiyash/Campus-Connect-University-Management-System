@@ -7,7 +7,7 @@ public class About extends JFrame {
 
     About() {
         setSize(700, 500);
-        setLocation(400, 150);
+        setLocation(400, 200);
         getContentPane().setBackground(Color.WHITE);
         
         ImageIcon i1 = new ImageIcon(ClassLoader.getSystemResource("icons/about.jpg"));
